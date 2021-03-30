@@ -1,5 +1,5 @@
 # HW4.1
-# Gradient calculator on matrices
+# Gradient calculator on given NN
 import numpy as np
 np.random.seed(19890817)
 
