@@ -1,0 +1,5 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "python.pythonPath": "/Users/zinccat/opt/anaconda3/envs/ml/bin/python",
+    "jupyter.jupyterServerType": "local"
+}

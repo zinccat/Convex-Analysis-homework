@@ -1,5 +1,5 @@
 # HW11 给定函数的梯度下降优化
-# Written by ZincCat
+# By ZincCat
 import numpy as np
 from matplotlib import pyplot as plt
 
